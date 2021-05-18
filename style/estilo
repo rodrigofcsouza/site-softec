@@ -1,5 +1,5 @@
 body {
-    background: #66CCFF;
+    background: white;
     font-family: verdana;
     max-width:900px;
     margin: auto;
